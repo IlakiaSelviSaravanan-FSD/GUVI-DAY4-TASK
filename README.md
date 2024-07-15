@@ -4,6 +4,7 @@ It has my Guvi Zen-class Day-4 completed Tasks.
 Day4-Tasks :
 Task-1 : 
     A. Print odd numbers in an array using Anonymous function and IIFE function
+    
     B. Convert all the strings to title caps in a string array using Anonymous function and IIFE function
     C. Sum of all numbers in an array using Anonymous function and IIFE function
     D. Return all the prime numbers in an array using Anonymous function and IIFE function
